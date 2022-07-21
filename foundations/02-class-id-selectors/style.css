@@ -1,0 +1,32 @@
+/* styles.css */
+
+.subsection-header {
+    font-size: 24px;
+    background-color: rgb(248, 172, 172)
+
+    
+}
+
+.subsection#preview {
+    font-size: 24px;
+    background-color: rgb(248, 172, 172)
+
+
+}
+
+#title {
+    font-weight: bold;
+    font-size: 36px;
+    color: rgb(4, 0, 253)
+}
+
+#title {
+    background-color: rgb(rgb(148, 255, 148))
+    }
+
+.main {
+    background-color: rgb(148, 255, 148)
+    
+}
+
+
