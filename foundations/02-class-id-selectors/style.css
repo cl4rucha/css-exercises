@@ -1,15 +1,21 @@
 /* styles.css */
 
+#demo {
+    background-color: rgb(122, 255, 122);
+}
+
 .subsection-header {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     font-size: 24px;
-    background-color: rgb(248, 172, 172)
+    background-color: rgb(248, 172, 172);
 
     
 }
 
 .subsection#preview {
-    font-size: 24px;
-    background-color: rgb(248, 172, 172)
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 36px;
+    background-color: rgb(248, 172, 172);
 
 
 }
@@ -17,15 +23,14 @@
 #title {
     font-weight: bold;
     font-size: 36px;
-    color: rgb(4, 0, 253)
+    color: rgb(4, 0, 253);
 }
 
-#title {
-    background-color: rgb(rgb(148, 255, 148))
-    }
-
 .main {
-    background-color: rgb(148, 255, 148)
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+    background-color: rgb(248, 172, 172);
+    
     
 }
 
